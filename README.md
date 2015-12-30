@@ -4,8 +4,8 @@
 
 ### Move vim config files to .vim dir  
 ```sh
-$ mv ~/.vimrc ~/.vim/vimrc
-$ mv ~/.gvimrc ~/.vim/gvimrc
+mv ~/.vimrc ~/.vim/vimrc
+mv ~/.gvimrc ~/.vim/gvimrc
 ```
 ### Now softlink to those files such that vim finds it
 ```sh
