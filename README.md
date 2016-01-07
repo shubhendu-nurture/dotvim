@@ -48,6 +48,7 @@ git commit -m "Install colorschme.vim bundle as a submodule."
 git submodule add https://github.com/vim-erlang/vim-erlang-omnicomplete.git bundle/vim-erlang-omnicomplete
 git submodule add https://github.com/vim-erlang/vim-erlang-compiler.git bundle/vim-erlang-compiler
 git submodule add https://github.com/vim-erlang/vim-erlang-runtime.git bundle/vim-erlang-runtime
+git submodule add https://github.com/vim-erlang/vim-erlang-tags.git bundle/vim-erlang-tags
 git submodule add https://github.com/scrooloose/nerdtree.git bundle/nerdtree
 git submodule add https://github.com/jistr/vim-nerdtree-tabs.git bundle/vim-nerdtree-tabs
 git submodule add https://github.com/scrooloose/syntastic.git bundle/syntastic
@@ -55,6 +56,7 @@ git submodule add https://github.com/tpope/vim-surround.git bundle/vim-surround
 git submodule add https://github.com/ntpeters/vim-better-whitespace.git bundle/vim-better-whitespace
 git submodule add https://github.com/MattesGroeger/vim-bookmarks.git bundle/vim-bookmarks
 git submodule add https://github.com/jiangmiao/auto-pairs.git bundle/auto-pairs
+git submodule add https://github.com/Valloric/YouCompleteMe.git bundle/YouCompleteMe
 ```
 
 
