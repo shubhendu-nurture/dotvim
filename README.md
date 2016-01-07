@@ -56,4 +56,5 @@ git submodule add https://github.com/tpope/vim-surround.git bundle/vim-surround
 git submodule add https://github.com/ntpeters/vim-better-whitespace.git bundle/vim-better-whitespace
 git submodule add https://github.com/MattesGroeger/vim-bookmarks.git bundle/vim-bookmarks
 git submodule add https://github.com/jiangmiao/auto-pairs.git bundle/auto-pairs
+git submodule add https://github.com/Valloric/YouCompleteMe.git bundle/YouCompleteMe
 ```
