@@ -34,3 +34,15 @@
 [submodule "bundle/auto-pairs"]
 	path = bundle/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "bundle/vim-erlang-tags"]
+	path = bundle/vim-erlang-tags
+	url = https://github.com/vim-erlang/vim-erlang-tags.git
+[submodule "bundle/onedark"]
+	path = bundle/onedark
+	url = https://github.com/joshdick/onedark.vim.git
+[submodule "/home/shubhendu/.vim/bundle/vim-tmux"]
+	path = /home/shubhendu/.vim/bundle/vim-tmux
+	url = https://github.com/tmux-plugins/vim-tmux.git
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
