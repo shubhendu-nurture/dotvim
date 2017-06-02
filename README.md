@@ -59,4 +59,10 @@ git submodule add https://github.com/jiangmiao/auto-pairs.git bundle/auto-pairs
 git submodule add https://github.com/Valloric/YouCompleteMe.git bundle/YouCompleteMe
 ```
 
+### Removing installed sub module
+```sh
+git submodule deinit -f bundle/YouCompleteMe
+git rm -f bundle/YouCompleteMe
+```
+
 
